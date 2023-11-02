@@ -1,4 +1,4 @@
 # login
 
 ## Live Demo
-  https://ahmadrezala.github.io/login/index.html
+  https://ahmadrezala.github.io/login
